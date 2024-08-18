@@ -6,7 +6,5 @@ Furthermore, branching pattern development is viewed as a noise amplification pr
 
 Supporting the hypothesis, the colony center was consistently highlighted as the primary region of interest, indicating its crucial role in classification by the CNN. This also confirms that the initial cell seeding configuration (i.e., the location where cells were first inoculated) is preserved and this information is not lost during colony development.
 
-[Reference](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf
-![image](https://github.com/user-attachments/assets/7e4eda74-5f9a-4198-b428-52ee4faa27c4)
-)
+[Reference](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf)
 
