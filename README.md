@@ -4,7 +4,12 @@ Biological patterns, such as colony morphology, can be leveraged to [encode real
 
 Furthermore, branching pattern development is viewed as a noise amplification process in biology. The application of interpretable ML techniques has also been instrumental in verifying the extent to which information is preserved throughout this dynamic process.
 
-Supporting the hypothesis, the colony center was consistently highlighted as the primary region of interest, indicating its crucial role in classification by the CNN. This also confirms that the initial cell seeding configuration (i.e., the location where cells were first inoculated) is preserved and this information is not lost during colony development.
+Supporting the hypothesis, the colony center was consistently highlighted as the primary region of interest, indicating its crucial role in classification by the CNN. This also confirms that the initial cell seeding configuration (i.e., the location where cells were first inoculated) is preserved and this information is not lost during colony development. 
 
-[Reference](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf)
+# Mathematical modeling of biological pattern formation
 
+# Intepretable techniques
+
+# References
+[Feature visualization](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf)
+[Kernel-based modeling of branch formation](https://iopscience.iop.org/article/10.1088/1367-2630/16/1/015006/pdf)
